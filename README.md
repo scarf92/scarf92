@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on @thefightagainstmalware.
+- 🔭 I’m currently working on stuff
 - 🌱 I’m currently learning things
 - 📝 I’m looking to collaborate on work
 - 🤔 I’m looking for help with life
